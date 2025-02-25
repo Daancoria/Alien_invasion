@@ -1,5 +1,1 @@
-# Alien_invasion
-
-From Python Crash Course by Eric Matthes. 
-OG code by JD
-Updates made by DC (me)
+From Python Crash Course by Eric Matthes.  Great Book. Og code by JD 
