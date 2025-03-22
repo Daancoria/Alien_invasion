@@ -1,0 +1,41 @@
+# Alien Invasion
+
+Alien Invasion is a 2D arcade-style game inspired by the classic Space Invaders. The game is built using Python and Pygame, where players control a spaceship to shoot down waves of aliens while avoiding collisions.
+
+## Features
+
+- **Dynamic Gameplay**: Control your spaceship using arrow keys and shoot bullets to destroy aliens.
+- **Ship Selection**: Choose from multiple spaceship designs before starting the game.
+- **Alien Waves**: Randomized alien fleets with different colors.
+- **Score Tracking**: Earn points for every alien destroyed.
+- **Lives System**: Start with 3 lives and survive as long as possible.
+- **Pause and Resume**: Pause the game anytime with the `P` key.
+- **Background Music**: Immersive space-themed background music.
+
+## Controls
+
+- **Arrow Keys**: Move the spaceship.
+- **Spacebar**: Shoot bullets.
+- **P**: Pause/Resume the game.
+- **Q**: Quit the game.
+- **Enter**: Start the game or confirm ship selection.
+- **Up/Down Arrow Keys**: Navigate ship selection menu.
+
+## How to Play
+
+1. Run the game by executing `alien_invasion.py`.
+2. Select your spaceship design using the `Up` and `Down` arrow keys, then press `Enter` to confirm.
+3. Use the arrow keys to move your ship and the spacebar to shoot bullets.
+4. Destroy all aliens to progress to the next wave.
+5. Avoid collisions with aliens and their edges to survive.
+6. If you lose all your lives, the game ends. Press `R` to restart.
+
+## Requirements
+
+- Python 3.11 or higher
+- Pygame library
+
+To install Pygame, run:
+
+```sh
+pip install pygame
